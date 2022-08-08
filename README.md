@@ -33,3 +33,10 @@ individual
 - Knowledgeable in conversational
 English, Arabic
 - Team plaver
+
+##projects 
+- dojo game 
+- 2080 game
+- nasa 
+- java 
+- .net  
